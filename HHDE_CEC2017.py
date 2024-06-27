@@ -53,7 +53,7 @@ def HHDE():
         R = np.random.rand()
         if R < 1 / 5:  # cur/1
             r1, r2 = np.random.choice(idx_list, 2, replace=False)
-            Off[i] = Pop[i] + F * (Pop[r1] - Pop[r1])
+            Off[i] = Pop[i] + F * (Pop[r1] - Pop[r2])
         elif R < 2 / 5:  # rand/1
             r1, r2, r3 = np.random.choice(idx_list, 3, replace=False)
             Off[i] = Pop[r1] + F * (Pop[r2] - Pop[r3])
