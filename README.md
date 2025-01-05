@@ -16,4 +16,4 @@ author = {Rui Zhong and Shilong Zhang and Jun Yu and Masaharu Munetomo},
 }  
 
 ## Datasets and Libraries
-CEC benchmarks are provided by the opfunu library, engineering problems are provided by the enoppy library, ELM model and datasets in classification are provided by mafese and intelelm libraries.
+CEC benchmarks are provided by the opfunu library and engineering problems are provided by the enoppy library.
