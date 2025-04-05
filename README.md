@@ -8,10 +8,10 @@ Inspired by the architecture of the hyper-heuristic (HH) algorithm, we design a 
 @article{Zhong:25,  
 title = {HHDE: A Hyper-heuristic Differential Evolution with Novel Boundary Repair Technique for Complex Optimization},  
 journal = {The Journal of Supercomputing},  
-volume = {},  
-pages = {},  
+volume = {81},  
+pages = {1-31},  
 year = {2025},  
-note = {Accepted},  
+doi = {https://doi.org/10.1007/s11227-024-06862-8 },  
 author = {Rui Zhong and Shilong Zhang and Jun Yu and Masaharu Munetomo},  
 }  
 
